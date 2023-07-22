@@ -1,0 +1,78 @@
+/* Created By AbdulWahabThebo */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#a1,#b2{
+    background-color: black;
+    color: white;
+ 
+}
+#a1,#b2{
+    margin: auto;
+}
+.none{
+    border: none;
+}
+.color1{
+    background-color: #00b6bc;
+}
+.color2{
+    background-color:#329090;
+
+}
+.color3{
+    background-color: #1b67c9;
+    
+}
+.color4{
+    background-color: #a166a0;
+    
+}
+.color5{
+    background-color: #f5b659;
+}
+.color6{
+    background-color: #00b6bc;
+    
+}
+.color7{
+    background-color: #59cf6e;
+}
+.color8{
+    background-color: #f36d4a;
+    
+}
+.color9{
+    background-color: #f53951;
+    
+}
+.color10{
+    background-color: #004e75;
+}
+.color11{
+    background-color: #572e56;
+    
+}
+.color12{
+    background-color: #859998;
+}
+#a1{
+    text-align: center;
+    width: 100%;
+
+}
+#ab{
+box-shadow: 10px 10px 50px black;
+border-radius: 50px;
+background-color: black;
+margin: 10px;
+padding: 50px;
+}
+#a4{
+    color: white;
+    text-shadow: 5px 5px 5px grey ;
+}
+.abc{
+    padding-top: 10px;
+}
